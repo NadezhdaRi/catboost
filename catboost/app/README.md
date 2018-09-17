@@ -1,3 +1,4 @@
+### Rivkind Nadezhda 
 ### Command line utility
 Command line utility can be used in fit, calc and fstr modes.
 
